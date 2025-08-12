@@ -25,9 +25,9 @@
     <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong><br><br>
       Hi there, I'm Changki!  
-      I’m passionate about Human Activity Recognition (HAR),<br> 
+      I’m passionate about <br>Human Activity Recognition (HAR),<br> 
       wearable computing, on-device machine learning,<br> 
-      and Android/Kotlin development.  
+      and Android/Kotlin development.<br>  
       I love learning, experimenting, <br>
       and sharing new ideas with the world.
     </td>
