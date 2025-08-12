@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Welcome%20to%20Changki%27s%20Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20Changki%27s%20Github&fontSize=40" />
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
 <!-- Tech Skills -->
