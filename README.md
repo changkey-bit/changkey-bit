@@ -19,13 +19,11 @@
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
-<!-- Contact + GitHub Stats side-by-side -->
-<h3>Contact & Stats 🤙</h3>
+<h3>Contact & Stats 💻</h3>
 
 <table width="100%" style="table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <!-- 좌측: 자기소개 -->
-    <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
+\    <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong><br><br>
       안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅<br>,  
       On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
@@ -39,8 +37,13 @@
 </table>
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
+<h3>Contact 🤙</h3>
+<p>
+  • 📞 010-2602-9497<br>
+  • 📧 ckckckck1207@naver.com
+</p>
 
-<!-- Interests -->
+<hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 <h3>Interests 💫</h3>
 <p>
   • Human Activity Recognition (HAR)<br>
