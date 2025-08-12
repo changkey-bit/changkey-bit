@@ -27,7 +27,7 @@
     <!-- 좌측: 자기소개 -->
     <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong><br><br>
-      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,  
+      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅<br>,  
       On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
     </td>
     <td style="vertical-align: top; padding: 12px; width: 60%; border: 1px solid #ccc;">
