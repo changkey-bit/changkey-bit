@@ -23,14 +23,19 @@
 
 <hr style="border: 2px solid #ffa500;" />
 <h3>Contact 🤙</h3>
-📞 010-2602-9497 <br>
-📧 ckckckck1207@naver.com
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    📞 010-2602-9497 <br>
+    📧 ckckckck1207@naver.com
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" />
+  </div>
+</div>
 
 <hr style="border: 2px solid #ffa500;" />
 <h3>Interests 💫</h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true">
-</p>
 
