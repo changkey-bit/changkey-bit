@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=400&section=header&text=Welcome to Changki's Github&fontSize=70" />
