@@ -21,29 +21,32 @@
 
 <!-- Contact + GitHub Stats side-by-side -->
 <h3>Contact & Stats 🤙</h3>
+<!-- Contact & Stats in 2x2 Table -->
 <table>
   <tr>
-    <!-- 1행 왼쪽: Contact -->
-    <td style="vertical-align: top; padding: 10px;">
-      <strong>📧 Contact</strong><br>
-      <a href="mailto:ckckckck1207@naver.com">ckckckck1207@naver.com</a>
+    <!-- 1행 1열: 자기소개 제목 -->
+    <td style="vertical-align: top; padding: 10px; font-weight: bold; font-size: 18px;">
+      👋 About Me
     </td>
-    <!-- 1행 오른쪽: Language Stats -->
+    <!-- 1행 2열: Language Stats -->
     <td style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" />
     </td>
   </tr>
   <tr>
-    <!-- 2행 왼쪽: GitHub Stats -->
+    <!-- 2행 1열: 자기소개 내용 -->
+    <td style="padding: 10px; vertical-align: top;">
+      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,  
+      On-device Machine Learning, Android/Kotlin 개발에 관심이 많은 Changki입니다.  
+      실험과 개발을 동시에 즐기며, 새로운 기술을 배우고 적용하는 것을 좋아합니다.
+    </td>
+    <!-- 2행 2열: GitHub Stats -->
     <td style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" />
     </td>
-    <!-- 2행 오른쪽: 비어있음(원하면 다른 내용 넣기) -->
-    <td style="padding: 10px;">
-      <!-- 여기에 다른 이미지나 텍스트 넣을 수 있음 -->
-    </td>
   </tr>
 </table>
+
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
