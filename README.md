@@ -29,12 +29,9 @@
   </colgroup>
 
   <tr>
-    <!-- 1행 1열: 자기소개 제목 -->
     <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong>
     </td>
-
-    <!-- 1행 2열: Language Stats -->
     <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"
@@ -43,15 +40,11 @@
       />
     </td>
   </tr>
-
   <tr>
-    <!-- 2행 1열: 자기소개 내용 -->
     <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,
       On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
     </td>
-
-    <!-- 2행 2열: GitHub Stats -->
     <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true"
