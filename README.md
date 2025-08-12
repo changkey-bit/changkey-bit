@@ -22,23 +22,21 @@
 <!-- Contact + GitHub Stats side-by-side -->
 <h3>Contact & Stats 🤙</h3>
 
-<hr style="border: 2px solid #ffa500; margin: 20px 0;" />
-
-<h3>Contact & Stats 🤙</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <strong style="font-size:18px;">👋 About Me</strong><br><br>
-    안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,  
-    On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
-  </div>
-  <div style="flex: 2; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"/>
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true"
-         style="max-width:100%; height:auto; display:block;" />
-  </div>
-</div>
-<hr style="border: 2px solid #ffa500; margin: 20px 0;" />
+<table width="100%" style="table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <!-- 좌측: 자기소개 -->
+    <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
+      <strong style="font-size:18px;">👋 About Me</strong><br><br>
+      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,  
+      On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
+    </td>
+    <td style="vertical-align: top; padding: 12px; width: 60%; border: 1px solid #ccc;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" style="max-width:100%; height:auto; display:block;" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" style="max-width:100%; height:auto; display:block;" />
+    </td>
+  </tr>
+</table>
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
