@@ -29,10 +29,10 @@
   </colgroup>
 
   <tr>
-    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+    <td style="height:300px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong>
     </td>
-    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+    <td style="height:300px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"
         style="width:100%; max-width:100%; height:auto; display:block;"
