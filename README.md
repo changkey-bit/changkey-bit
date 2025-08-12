@@ -21,35 +21,46 @@
 
 <!-- Contact + GitHub Stats side-by-side -->
 <h3>Contact & Stats 🤙</h3>
-<!-- Contact & Stats in 2x2 Table -->
-<!-- About Me + Stats in Equal-Size 2x2 Table -->
-<table style="table-layout: fixed; width: 100%; border-collapse: collapse; text-align: center;">
+<!-- About Me + Stats (equal column widths) -->
+<table width="100%" style="table-layout:fixed; border-collapse:collapse; text-align:center;">
+  <colgroup>
+    <col style="width:50%;">
+    <col style="width:50%;">
+  </colgroup>
+
   <tr>
-    <!-- 1행 1열 -->
-    <td style="width: 50%; height: 250px; vertical-align: middle; font-weight: bold; font-size: 18px; border: 1px solid #ccc;">
-      👋 About Me
+    <!-- 1행 1열: 자기소개 제목 -->
+    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+      <strong style="font-size:18px;">👋 About Me</strong>
     </td>
-    <!-- 1행 2열 -->
-    <td style="width: 50%; height: 250px; border: 1px solid #ccc; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" style="width: 90%; height: auto;" />
+
+    <!-- 1행 2열: Language Stats -->
+    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"
+        style="width:100%; max-width:100%; height:auto; display:block;"
+        alt="Top Languages"
+      />
     </td>
   </tr>
+
   <tr>
-    <!-- 2행 1열 -->
-    <td style="width: 50%; height: 250px; vertical-align: middle; border: 1px solid #ccc; padding: 10px;">
-      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,  
-      On-device Machine Learning, Android/Kotlin 개발에 관심이 많은 Changki입니다.  
-      실험과 개발을 동시에 즐기며, 새로운 기술을 배우고 적용하는 것을 좋아합니다.
+    <!-- 2행 1열: 자기소개 내용 -->
+    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+      안녕하세요! 저는 Human Activity Recognition(HAR), 웨어러블 컴퓨팅,
+      On-device ML, Android/Kotlin에 관심이 많은 Changki입니다.
     </td>
-    <!-- 2행 2열 -->
-    <td style="width: 50%; height: 250px; border: 1px solid #ccc; vertical-align: middle;">
-      <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" style="width: 90%; height: auto;" />
+
+    <!-- 2행 2열: GitHub Stats -->
+    <td style="height:230px; vertical-align:middle; padding:12px; border:1px solid #ccc;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true"
+        style="width:100%; max-width:100%; height:auto; display:block;"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
-
-
-
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
