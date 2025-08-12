@@ -32,8 +32,7 @@
 
   <!-- 오른쪽 -->
   <div style="flex: 2; min-width: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"
-         style="max-width:100%; height:auto; display:block;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"/>
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true"
          style="max-width:100%; height:auto; display:block;" />
