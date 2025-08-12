@@ -56,8 +56,8 @@
 <!-- Interests -->
 <h3>Interests 💫</h3>
 <p>
-  • Human Activity Recognition (HAR)
-  • Wearable Computing 
-  • On-device ML 
+  • Human Activity Recognition (HAR)<br>
+  • Wearable Computing <br>
+  • On-device ML <br>
   • Android/Kotlin  
 </p>
