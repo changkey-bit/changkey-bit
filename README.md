@@ -16,3 +16,8 @@
 <hr style="border: 2px solid #ffa500;" />
 <h3>Interests 💫</h3>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true">
+</p>
+
