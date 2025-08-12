@@ -25,9 +25,11 @@
     <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
       <strong style="font-size:18px;">👋 About Me</strong><br><br>
       Hi there, I'm Changki!  
-      I’m passionate about Human Activity Recognition (HAR), wearable computing,  
-      on-device machine learning, and Android/Kotlin development.  
-      I love learning, experimenting, and sharing new ideas with the world.
+      I’m passionate about Human Activity Recognition (HAR),<br> 
+      wearable computing, on-device machine learning,<br> 
+      and Android/Kotlin development.  
+      I love learning, experimenting, <br>
+      and sharing new ideas with the world.
     </td>
     <td style="vertical-align: top; padding: 12px; width: 60%; border: 1px solid #ccc;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" style="max-width:100%; height:auto; display:block;" />
