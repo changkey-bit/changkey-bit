@@ -21,16 +21,21 @@
 
 <!-- Contact + GitHub Stats side-by-side -->
 <h3>Contact 🤙</h3>
-<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
-  <div style="font-size:16px;">
-    📧 <a href="mailto:ckckckck1207@naver.com">ckckckck1207@naver.com</a>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" />
-  </div>
-</div>
+
+<table>
+  <tr>
+    <!-- Contact info -->
+    <td style="vertical-align: top; padding-right: 20px;">
+      📧 <a href="mailto:ckckckck1207@naver.com">ckckckck1207@naver.com</a>
+    </td>
+    <!-- GitHub Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" />
+    </td>
+  </tr>
+</table>
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
