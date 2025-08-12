@@ -24,8 +24,8 @@
 <!-- About Me + Stats (equal column widths) -->
 <table width="100%" style="table-layout:fixed; border-collapse:collapse; text-align:center;">
   <colgroup>
-    <col style="width:50%;">
-    <col style="width:50%;">
+    <col style="width:30%;">
+    <col style="width:70%;">
   </colgroup>
 
   <tr>
