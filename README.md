@@ -20,19 +20,27 @@
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
 <!-- Contact + GitHub Stats side-by-side -->
-<h3>Contact 🤙</h3>
-
+<h3>Contact & Stats 🤙</h3>
 <table>
   <tr>
-    <!-- Contact info -->
-    <td style="vertical-align: top; padding-right: 20px;">
-      📧 <a href="mailto:ckckckck1207@naver.com">ckckckck1207@naver.com</a>
+    <!-- 1행 왼쪽: Contact -->
+    <td style="vertical-align: top; padding: 10px;">
+      <strong>📧 Contact</strong><br>
+      <a href="mailto:ckckckck1207@naver.com">ckckckck1207@naver.com</a>
     </td>
-    <!-- GitHub Stats -->
-    <td>
+    <!-- 1행 오른쪽: Language Stats -->
+    <td style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changkey-bit&layout=compact" />
-      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <!-- 2행 왼쪽: GitHub Stats -->
+    <td style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=changkey-bit&show_icons=true" />
+    </td>
+    <!-- 2행 오른쪽: 비어있음(원하면 다른 내용 넣기) -->
+    <td style="padding: 10px;">
+      <!-- 여기에 다른 이미지나 텍스트 넣을 수 있음 -->
     </td>
   </tr>
 </table>
