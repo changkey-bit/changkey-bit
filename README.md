@@ -19,7 +19,7 @@
 
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 
-<h3>자기소개 & Stats 💻</h3>
+<h3>About Me & Stats 💻</h3>
 <table width="100%" style="table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td style="vertical-align: top; padding: 12px; width: 40%; border: 1px solid #ccc;">
