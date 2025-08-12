@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black" />&nbsp;<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
 <hr style="border: 2px solid #ffa500;" />
-### Contact 📞
-
+### Contact 🤙
+📞 010-2602-9497
+📧 ckckckck1207@naver.com
 
 <hr style="border: 2px solid #ffa500;" />
 ### Interests 💫
