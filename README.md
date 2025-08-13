@@ -42,7 +42,6 @@
 <hr style="border: 2px solid #ffa500; margin: 20px 0;" />
 <h3>Contact 🤙</h3>
 <p>
-  • 📞 010-2602-9497<br>
   • 📧 ckckckck1207@naver.com
 </p>
 
